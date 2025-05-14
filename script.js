@@ -1,0 +1,1 @@
+// JavaScript aus dem <script> Tag wurde hierher ausgelagert
